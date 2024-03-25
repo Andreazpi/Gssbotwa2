@@ -22,8 +22,8 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['254722695739'];
+global.ownername = 'hunter';
+global.owner = ['254722695736'];
 global.premium = ['254722695736'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = 'hunter ';
